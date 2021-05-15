@@ -1,5 +1,5 @@
 # Social-Networks-Analysis
-Analysis of some famous online social networks
+Analysis of some famous online social networks using Scraping Tools, Natural Language Libraries and Data Visualisation Libraries.
 
 ## Folder Structure
 
